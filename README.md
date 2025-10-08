@@ -35,3 +35,12 @@ Python | TensorFlow | Keras | scikit-learn | OpenCV | Kotlin | Android Studio | 
 * **LinkedIn:** [linkedin.com/in/putu-pramodia-suka-pratama-447b2120b](https://www.linkedin.com/in/putu-pramodia-suka-pratama-447b2120b/)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pramodiaSuka&show_icons=true&theme=github_dark" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodiaSuka&theme=github-dark-blue" width="450" />
+</p>
+
+---
